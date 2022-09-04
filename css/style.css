@@ -134,7 +134,7 @@ border: 2px solid red;
 }
 
 #client-section{
-    position: relative;
+    display: flex;
   
 }
 
@@ -156,7 +156,7 @@ border: 2px solid red;
 
 /* Contact Section */
 #contact{
-    position: relative;
+    display: flex;
 }
 #contact::before{
     content: "";
